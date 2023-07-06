@@ -1,1 +1,1 @@
-bob_info = ["Bob", "Dylan", int(79)]
+bob_info = ["Bob", "Dylan", 79]
